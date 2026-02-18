@@ -98,6 +98,10 @@ Department of Computer Science & Engineering
 Visvesvaraya Technological University (VTU)
 
 ---
+## 🌐 Live Web Application
+🔗 GEE Web App: https://original-fort-474609-u8.projects.earthengine.app/view/pravaha
+
+---
 
 ## 📜 License
 This project is intended for academic and research purposes.
